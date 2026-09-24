@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using this metadata."
+type: software
+license: MIT
+title: "Cervical cancer proteomics analysis code"
+authors:
+  - family-names: "Ye"
+    given-names: "Hui"
+abstract: "R scripts for WGCNA, immune infiltration estimation, random forest classification and NMF clustering."
+repository-code: "https://github.com/Sykalon/cervical-cancer-code"
+version: "1.0.0"

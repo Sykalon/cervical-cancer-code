@@ -1,0 +1,9 @@
+{
+  "title": "Cervical cancer proteomics analysis code",
+  "upload_type": "software",
+  "description": "R analysis scripts for WGCNA, immune infiltration estimation with IOBR, random forest classification and NMF clustering. Contains source code and documentation only; no patient data are included. See the README and validation notes for reproducibility limitations.",
+  "creators": [{"name": "Ye, Hui"}],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["cervical cancer", "proteomics", "WGCNA", "random forest", "NMF", "IOBR"]
+}
